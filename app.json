@@ -1,26 +1,12 @@
 {
-  "cli": {
-    "version": ">=0.46.0"
-  },
-  "build": {
-    "production": {
-      "android": {
-        "buildType": "apk",
-        "distribution": "store"
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "93eb80cc-3acc-4e49-af59-51d444619fb8"
       }
     },
-    "preview": {
-      "android": {
-        "buildType": "apk",
-        "distribution": "internal"
-      }
-    },
-    "development": {
-      "android": {
-        "buildType": "apk",
-        "distribution": "internal",
-        "developmentClient": true
-      }
+    "android": {
+      "package": "com.salvis.attikis.simpleexpoapp"
     }
   }
 }
