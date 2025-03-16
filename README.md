@@ -39,3 +39,4 @@ Ideas for future implamentation.
   Adding more error message if havent added all.
   Improve design.
   Added more filter and better categorize them.
+  Improve security for app
