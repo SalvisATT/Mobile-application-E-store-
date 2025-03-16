@@ -34,6 +34,7 @@ Libraries Used
   Used the MERN technology stack.
 
 Ideas for future implamentation.
+
   Adding favorite section for user
   Improve usability for admin
   Adding more error message if havent added all
