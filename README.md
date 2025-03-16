@@ -35,9 +35,9 @@ Libraries Used
 
 Ideas for future implamentation.
 
-  Adding favorite section for user
-  Improve usability for admin
-  Adding more error message if havent added all
-  Improve design
-  Added more filter and better categorize them
-  Improve security for app
+  1.Adding favorite section for user
+  2.Improve usability for admin
+  3.Adding more error message if havent added all
+  4.Improve design
+  5.Added more filter and better categorize them
+  6.Improve security for app
