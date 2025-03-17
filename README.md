@@ -7,6 +7,13 @@ To set up and run this project locally, follow these steps:
 
 1.Clone the repository:
   git clone https://github.com/SalvisATT/application123.git
+
+
+  after cloning write this in terminal : 
+  npm install        # Installs dependencies in the main folder
+  cd e-store
+  npm install        # Installs dependencies in the frontend folder
+
 2.Navigate to the project directory:
 
   cd backend
